@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pwa-cra-services/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/pwa-cra-services/static/js/main.cc72b9d7.chunk.js",
-    "main.js.map": "/pwa-cra-services/static/js/main.cc72b9d7.chunk.js.map",
+    "main.js": "/pwa-cra-services/static/js/main.e1b17693.chunk.js",
+    "main.js.map": "/pwa-cra-services/static/js/main.e1b17693.chunk.js.map",
     "runtime-main.js": "/pwa-cra-services/static/js/runtime-main.f5c3fdb7.js",
     "runtime-main.js.map": "/pwa-cra-services/static/js/runtime-main.f5c3fdb7.js.map",
     "static/js/2.562e5377.chunk.js": "/pwa-cra-services/static/js/2.562e5377.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.f5c3fdb7.js",
     "static/js/2.562e5377.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.cc72b9d7.chunk.js"
+    "static/js/main.e1b17693.chunk.js"
   ]
 }

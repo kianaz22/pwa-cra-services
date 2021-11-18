@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/static/js/main.43d0ecdd.chunk.js",
-    "main.js.map": "/static/js/main.43d0ecdd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6c17df93.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6c17df93.js.map",
-    "static/js/2.cf0babdc.chunk.js": "/static/js/2.cf0babdc.chunk.js",
-    "static/js/2.cf0babdc.chunk.js.map": "/static/js/2.cf0babdc.chunk.js.map",
-    "static/js/3.2e815bc6.chunk.js": "/static/js/3.2e815bc6.chunk.js",
-    "static/js/3.2e815bc6.chunk.js.map": "/static/js/3.2e815bc6.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.7d180cbf.chunk.css.map": "/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.cf0babdc.chunk.js.LICENSE.txt": "/static/js/2.cf0babdc.chunk.js.LICENSE.txt"
+    "main.css": "/pwa-cra-services/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/pwa-cra-services/static/js/main.cf30d70a.chunk.js",
+    "main.js.map": "/pwa-cra-services/static/js/main.cf30d70a.chunk.js.map",
+    "runtime-main.js": "/pwa-cra-services/static/js/runtime-main.eaa1d192.js",
+    "runtime-main.js.map": "/pwa-cra-services/static/js/runtime-main.eaa1d192.js.map",
+    "static/js/2.cf0babdc.chunk.js": "/pwa-cra-services/static/js/2.cf0babdc.chunk.js",
+    "static/js/2.cf0babdc.chunk.js.map": "/pwa-cra-services/static/js/2.cf0babdc.chunk.js.map",
+    "static/js/3.2e815bc6.chunk.js": "/pwa-cra-services/static/js/3.2e815bc6.chunk.js",
+    "static/js/3.2e815bc6.chunk.js.map": "/pwa-cra-services/static/js/3.2e815bc6.chunk.js.map",
+    "index.html": "/pwa-cra-services/index.html",
+    "service-worker.js": "/pwa-cra-services/service-worker.js",
+    "service-worker.js.map": "/pwa-cra-services/service-worker.js.map",
+    "static/css/main.7d180cbf.chunk.css.map": "/pwa-cra-services/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.cf0babdc.chunk.js.LICENSE.txt": "/pwa-cra-services/static/js/2.cf0babdc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c17df93.js",
+    "static/js/runtime-main.eaa1d192.js",
     "static/js/2.cf0babdc.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.43d0ecdd.chunk.js"
+    "static/js/main.cf30d70a.chunk.js"
   ]
 }
